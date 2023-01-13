@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git://github.com/kinfe19/hotel-booking"
+      "url": "git://github.com/slushjs/gulp-install"
     },
     "keywords": [
       "gulpplugin",
@@ -16,12 +16,12 @@
       "npm",
       "install"
     ],
-    "author": "Kinfe Masrie <kinfemasrie123@gmail.com>",
+    "author": "Kinfe Masrie <kinfemasrie@gmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/kinfe19/hotel-booking"
+      "url": "https://github.com/slushjs/gulp-install/issues"
     },
-    "homepage": "https://github.com/kinfe19/hotel-booking",
+    "homepage": "https://github.com/slushjs/gulp-install",
     "dependencies": {
       "dargs": "^5.1.0",
       "gulp-util": "^3.0.7",
