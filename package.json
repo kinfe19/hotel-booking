@@ -34,7 +34,8 @@
     "chai": "^3.2.0",
     "mocha": "^3.2.0",
     "standard-version": "^4.0.0",
-    "xo": "^0.18.0"
+    "xo": "^0.18.0",
+    "gulp": "^3.9.1"
   },
   "xo": {
     "space": true
